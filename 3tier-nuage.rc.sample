@@ -1,0 +1,17 @@
+# application characteristics
+
+export DEPLOYMENT_SCHEMA='Three-tier application'
+export DEPLOYMENT_TYPE='VPC'
+export VPC_TIER1_NAME='Web'
+export VPC_TIER2_NAME='App'
+export VPC_TIER3_NAME='DB'
+export WEBACLLIST=WebACLList
+export APPACLLIST=AppACLList
+export DBACLLIST=DBACLList
+export VPC_OFFERING=NuageVpcOfferingBasic
+export VPC_TIER_OFFERING=NuageVpcTierOfferingBasic
+export SERVER_TEMPLATE=macchinina
+export SERVER_KEY_PAIR=
+export NBR_WEB_SERVERS=1
+export NBR_APP_SERVERS=3
+export NBR_DB_SERVERS=2

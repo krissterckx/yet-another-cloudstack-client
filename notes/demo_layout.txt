@@ -1,0 +1,24 @@
+
+
+1.   Show in UI how Nuage is configured.
+
+
+2.   Deploy a 3-tier application (6 servers in total).
+     Show vpc and capacity view, show CloudStack UI and show no
+     routers are deployed.
+     Show its resulting config in VSD.
+     Finally, demonstrate connectivity.
+
+
+3.   Deploy an Isolated network with config drive and boot coreos VM
+     and configure fw rule opening ssh
+
+
+4.   Create VPC from UI using preconfigured template.
+
+
+5.   Create Isolated Subnet from UI by importing VSD subnet part of
+     CloudStack+Kubernetes deployment, and boot VM in it from UI.
+
+
+6.   Show login on 3. setup

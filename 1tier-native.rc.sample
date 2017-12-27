@@ -1,0 +1,9 @@
+# application characteristics
+
+export DEPLOYMENT_SCHEMA='Single-tier application (native)'
+export DEPLOYMENT_TYPE='NETWORK'
+export NETWORK_OFFERING=DefaultIsolatedNetworkOfferingWithSourceNatService
+export SERVER_TEMPLATE=macchinina
+export SERVER_SYNC=--sync
+export SERVER_KEY_PAIR=
+export NBR_SERVERS=3

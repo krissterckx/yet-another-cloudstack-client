@@ -1,0 +1,9 @@
+# sample file
+
+export YACCDIR=$PWD/yacc
+
+export CS_API_ENDPOINT='http://localhost:8080/client/api'
+export CS_API_KEY=
+export CS_API_SECRET=
+
+export CS_CLIENT_DEBUG=  # set True for Debug logging

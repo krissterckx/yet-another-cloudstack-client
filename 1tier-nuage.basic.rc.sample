@@ -1,0 +1,8 @@
+# application characteristics
+
+export DEPLOYMENT_SCHEMA='Single-tier application'
+export DEPLOYMENT_TYPE='NETWORK'
+export NETWORK_OFFERING=NuageIsolatedNetOfferingBasic
+export SERVER_TEMPLATE=macchinina
+export SERVER_KEY_PAIR=
+export NBR_SERVERS=1

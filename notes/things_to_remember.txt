@@ -1,0 +1,18 @@
+
+
+clear content of /root/.ssh/known_hosts ce-vm prior to demo
+
+No _ in names, nor start name with digit
+
+When testing connectivity first explain where you test from & BGP peering
+
+cs destroy vpc <vpc> is same as cs delete vpc --deep <vpc>  (Note 'deep' comes /after/ the noun!)
+
+login to coreos vm is with user 'core'
+<!> REMEMBER that you need ssh keys to login to coreos, so mind >1 TIER APPS !
+
+
+--
+
+on VM boot , on vmware, template is copied from
+Primary storage Template to Primary Storage Root Disk

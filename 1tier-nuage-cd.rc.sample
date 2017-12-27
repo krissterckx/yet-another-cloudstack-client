@@ -1,0 +1,8 @@
+# application characteristics
+
+export DEPLOYMENT_SCHEMA='Single-tier application with Config Drive'
+export DEPLOYMENT_TYPE='NETWORK'
+export NETWORK_OFFERING=NuageIsolatedNetOfferingWithConfigDrive
+export SERVER_TEMPLATE=coreos
+export SERVER_KEY_PAIR=kris_key
+export NBR_SERVERS=1

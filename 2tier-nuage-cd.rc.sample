@@ -1,0 +1,14 @@
+# application characteristics
+
+export DEPLOYMENT_SCHEMA='Two-tier application with Config Drive'
+export DEPLOYMENT_TYPE='VPC'
+export VPC_TIER1_NAME=$VPC_NAME'Web'
+export VPC_TIER2_NAME=$VPC_NAME'App'
+export WEBACLLIST=WebACLList
+export APPACLLIST=AppACLList
+export VPC_OFFERING=NuageVpcOfferingWithConfigDrive
+export VPC_TIER_OFFERING=NuageVpcTierOfferingWithConfigDrive
+export SERVER_TEMPLATE=coreos
+export SERVER_KEY_PAIR=kris_key
+export NBR_WEB_SERVERS=1
+export NBR_APP_SERVERS=2
